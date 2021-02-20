@@ -15,4 +15,4 @@ function double(value: any): any {
 // };
 
 console.log(double(100));
-console.log(double('Go ')); 
+console.log(double('Go '));
